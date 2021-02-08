@@ -15,7 +15,7 @@ JS: I echo Amy's observation about the word maps being cut off.
 I tested the site on some of the most common browsers and it seems to
 be an issue on all of them.
 
-JS: Something I noticed frequently on the word frequency visualizations was the 
+JS: Something I noticed frequently on the word frequency visualizations was the
 sheer dominance of the word "religious." Despite this, there is no way to
 compare data using prisoners' religious preferences as a variable. I am not sure
 about all moral instructors' entries, but the religions of prisoners are noted
@@ -32,3 +32,16 @@ Admissions Book D was being ignored before I realized my mistake.
 JS: Seeing the "objects" of certain crimes might have been interesting. What
 were people burglarizing to get such long sentences? For those there on murder
 charges, were there trends in the types of victims?
+
+KD: I looked at the sentencing locations of inmates. It seems like for female
+inmates, it's more likely that they're from closer to the Philadelphia area while
+for male inmates they could have been sentenced from as far as the State College
+area of PA. However, with closer inspection, you can see that there are also
+female inmates from the State College area, the map just changes its zoom when
+visualizing this different group of inmates, which is not great for visualizing.
+
+KD: I also don't like that they changed the height of the y-axis when displaying
+the length of inmates sentences. It makes it seem like there are similar numbers
+of inmates being sentenced to around 40 months of time regardless of their literacy
+skills, when in fact there were fewer illiterate inmates compared to literate
+inmates.
