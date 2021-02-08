@@ -2,11 +2,33 @@ Hi, guys -- just to let you know I am now here as a collaborator.  note: when wr
 to a text file on GitHub, insert line breaks or your comments will appear as one long
 line.   //Jim
 
-AA: I found the word map very interesting, especially the qualifiers that they allow, 
-such as sobriety and literacy. I did notice however that at least on my browser, 
-the word maps got cut off and I couldn't see the whole thing. I think it would be 
-interesting to tag these words with certain emotions perhaps and look at a bar plot 
+AA: I found the word map very interesting, especially the qualifiers that they allow,
+such as sobriety and literacy. I did notice however that at least on my browser,
+the word maps got cut off and I couldn't see the whole thing. I think it would be
+interesting to tag these words with certain emotions perhaps and look at a bar plot
 of these groupings of words to get a better sense of the notes on inmates.
 
-AA: I would have liked to see types of crimes by location, I would be interested in 
+AA: I would have liked to see types of crimes by location, I would be interested in
 seeing if there were a pattern of types of crimes and ending up at ESP.
+
+JS: I echo Amy's observation about the word maps being cut off.
+I tested the site on some of the most common browsers and it seems to
+be an issue on all of them.
+
+JS: Something I noticed frequently on the word frequency visualizations was the 
+sheer dominance of the word "religious." Despite this, there is no way to
+compare data using prisoners' religious preferences as a variable. I am not sure
+about all moral instructors' entries, but the religions of prisoners are noted
+in the admissions books. I would be curious if there are any correlations or
+trends between certain religious denominations and other variables. Were there
+more prisoners of a certain denomination than others?
+
+JS: While not necessarily an error in the data, I think the site curators should
+have avoided naming the axes on various graphs Corpus A and Corpus B, when the
+admissions books used for visualizing the data are also delineated by the letters
+A and B, as well as D. Originally, I became confused by the charts thinking that
+Admissions Book D was being ignored before I realized my mistake.
+
+JS: Seeing the "objects" of certain crimes might have been interesting. What
+were people burglarizing to get such long sentences? For those there on murder
+charges, were there trends in the types of victims?
