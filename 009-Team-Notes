@@ -45,3 +45,14 @@ the length of inmates sentences. It makes it seem like there are similar numbers
 of inmates being sentenced to around 40 months of time regardless of their literacy
 skills, when in fact there were fewer illiterate inmates compared to literate
 inmates.
+
+AL: I looked at the word frequency wordclouds in the Moral Instructer's Notes of Inmates. 
+Based on this initial analysis, it was clear that the word "crime" was the most common
+comment for both male and female inmates. It was interesting to note that when changing 
+inmate behavior to "Drinks," the most common word became "guilty" and "parents". Within this 
+visualization, there are limitations in quantitative analysis/representations of the data.
+
+AL: Additionally, it would be interesting to see a larger version of the word map, and 
+I concur with Amy that there seemed to be some bugs on the browser. I also think that 
+it would be interesting to add a filter for time period to see if language descriptors 
+and common vernacular toward inmates changed over time.
